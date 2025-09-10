@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\My Computer\\AI_Daily_Buddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|C:\\Users\\My Computer\\AI_Daily_Buddy\\assets\\scrips\\dobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|C:\\Users\\My Computer\\AI_Daily_Buddy\\assets\\scrips\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|c:\\users\\my computer\\ai_daily_buddy\\assets\\scrips\\dobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\dobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\DOBManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DOBManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|C:\\Users\\My Computer\\AI_Daily_Buddy\\assets\\scrips\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C1D25-A348-425F-E0E1-2CC0922B668C}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Check.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\Check.cs",
               "RelativeDocumentMoniker": "Assets\\Scrips\\Check.cs",
@@ -49,20 +49,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DOBManager.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\DOBManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scrips\\DOBManager.cs",
               "ToolTip": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\DOBManager.cs",
               "RelativeToolTip": "Assets\\Scrips\\DOBManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T07:04:02.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DOBManager.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\DOBManager.cs",
               "RelativeDocumentMoniker": "Assets\\DOBManager.cs",
@@ -73,19 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DatePicker.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\DatePicker.cs",
               "RelativeDocumentMoniker": "Assets\\Scrips\\DatePicker.cs",
               "ToolTip": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\DatePicker.cs",
               "RelativeToolTip": "Assets\\Scrips\\DatePicker.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:38:57.066Z"
+              "WhenOpened": "2025-09-09T10:38:57.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OnboardingManager.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\AI_Daily_Buddy\\Assets\\Scrips\\OnboardingManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scrips\\OnboardingManager.cs",

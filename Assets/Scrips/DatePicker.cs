@@ -28,7 +28,7 @@ public class DatePicker : MonoBehaviour
         // Điền số năm từ 1900 → năm hiện tại
         yearDropdown.ClearOptions();
         yearDropdown.options.Add(new Dropdown.OptionData("--"));
-        for (int i = 1900; i <= System.DateTime.Now.Year; i++)
+        for (int i = 1980; i <= System.DateTime.Now.Year; i++)
             yearDropdown.options.Add(new Dropdown.OptionData(i.ToString()));
         yearDropdown.value = 0;
         yearDropdown.captionText.text = "--";
